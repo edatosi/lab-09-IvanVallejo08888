@@ -1,0 +1,24 @@
+# Maven
+target/
+dependency-reduced-pom.xml
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+nbproject/
+nbactions.xml
+nb-configuration.xml
+
+# SO
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
